@@ -31,4 +31,4 @@ Ensure you have the following installed before running Stegano Vision:
 ### `save()`
 - Saves the steganographic image with the hidden message as "hidden.png".
 
-##This project provides a simple and effective way to demonstrate the principles of image steganography. Enjoy exploring the hidden messages with Stegano Vision!
+## This project provides a simple and effective way to demonstrate the principles of image steganography. Enjoy exploring the hidden messages with Stegano Vision!
