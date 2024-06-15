@@ -1,6 +1,6 @@
 # Stegano Vision
 
-Stegano Vision is a Python-based application that enables users to hide and reveal secret text messages within image files using steganography techniques.
+Stegano Vision is a Python-based application that allows users to hide and reveal secret text messages within image files using steganography. The project leverages the Tkinter library for the GUI, PIL (Pillow) for image handling, and Stegano for the steganography functionality.
 
 ## Features
 
