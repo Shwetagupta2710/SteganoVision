@@ -5,6 +5,7 @@ from PIL import Image, ImageTk
 import os
 from stegano import lsb #pip install stegano
 
+
 root=Tk()
 root.title("Steganography - Hide a Secret Text Message in an Image")
 root.geometry("700x500+150+180")
